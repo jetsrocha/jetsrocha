@@ -5,4 +5,4 @@
 :books: Currently learning Angular and Vue.js </br>
 :muscle:  I'm looking to collaborate and encouraging women to pursue careers in technology
 
-<img src="https://github-readme-stats.vercel.app/api?username=jetsrocha&theme=radical&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=jetsrocha&theme=dracula&show_icons=true">
