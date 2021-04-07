@@ -4,11 +4,11 @@
 :blue_heart: Front-end and design </br>
 :books: Currently learning Angular</br>
 :muscle:  I'm looking to collaborate and encouraging women to pursue careers in technology
-
+##
  <div>
   <a href="https://github.com/jetsrocha">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jetsrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetsrocha&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jetsrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetsrocha&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
 ## Languages and Tools
