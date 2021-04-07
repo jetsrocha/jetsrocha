@@ -1,5 +1,5 @@
 **Hello World, i'm Jessica Rocha!** :wave: </br> 
-:boom: Disruptive mindset </br> 
+:zap: Disruptive mindset </br> 
 :round_pushpin: From São Paulo, living in Recife, Brazil  </br> 
 :blue_heart: Front-end and design </br> 
 :books: Currently learning Angular and Vue.js </br> 
